@@ -1,16 +1,36 @@
-# track_expenses
 
-A new Flutter project.
+# Track Expense App
 
-## Getting Started
+An app that eases your daily expense tracking through a variety of statistics and graphs. 
+It aims to help you track down current month expenses and find where you have spent the most, hence making you aware and more careful.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Using the APK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- The pre-built .apk file for the app can be downloaded [here](https://github.com/Kishlay-KS/TrackExpense)
+- Open the file in your android device. If prompted, open using   Google Drive and then Package Installer.
+- Give necessary permissions to start the installation and start using the application.
+## Requirements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Firebase (If you want your own DB)
+
+```bash
+  If you face an error of missing dependencies, try running flutter pub get.
+```
+
+
+## Features
+
+- User Authentication
+![Sign In](https://drive.google.com/drive/folders/1348RBRGfp8Mk7_GzX300DOCiCZAacW_o)
+
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/drive/folders/1348RBRGfp8Mk7_GzX300DOCiCZAacW_o)
+

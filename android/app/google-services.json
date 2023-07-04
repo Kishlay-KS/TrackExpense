@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "654084520934",
+    "project_id": "trackexp-8488d",
+    "storage_bucket": "trackexp-8488d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654084520934:android:5b98bdcaab153cb1b53427",
+        "android_client_info": {
+          "package_name": "com.example.track_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654084520934-h376h3i880mi098gi0etcpa0hnc60pof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDSbWgl4EqgXGxby0tRhHBSiWV4xvlRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654084520934-h376h3i880mi098gi0etcpa0hnc60pof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654084520934-g2gu9s72c787fv9kmofgmtis0v2losff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trackExpenses"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

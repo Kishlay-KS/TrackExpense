@@ -130,6 +130,7 @@ Future<Uint8List> generateReport(
                 }),
               ),
             ),
+            pw.SizedBox(height: 10),
             table,
           ],
         );

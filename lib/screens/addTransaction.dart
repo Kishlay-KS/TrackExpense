@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:track_expenses/models/expenseTile.dart';
+// import 'package:track_expenses/models/expenseTile.dart';
 
 class AddTransaction extends StatefulWidget {
   const AddTransaction({super.key});
@@ -214,21 +214,21 @@ class _AddTransactionState extends State<AddTransaction> {
                       )),
                 ),
                 Padding(
-                  padding: EdgeInsets.fromLTRB(25, 0, 25, 25),
+                  padding: const EdgeInsets.fromLTRB(25, 0, 25, 25),
                   child: Container(
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(100.0),
                       color: Colors.white.withOpacity(0.3),
                     ),
-                    padding: EdgeInsets.all(10.0),
+                    padding: const EdgeInsets.all(10.0),
                     child: TextField(
                       controller: amountController,
                       minLines: 1,
                       maxLines: 3,
-                      style: TextStyle(color: Colors.white),
+                      style: const TextStyle(color: Colors.white),
                       cursorColor: Colors.white,
                       // controller: myController,
-                      decoration: InputDecoration(
+                      decoration: const InputDecoration(
                         border: InputBorder.none,
                         labelText: 'Amount',
                         labelStyle: TextStyle(
@@ -245,7 +245,7 @@ class _AddTransactionState extends State<AddTransaction> {
                   ),
                 ),
                 Padding(
-                  padding: EdgeInsets.fromLTRB(30, 5, 30, 0),
+                  padding: const EdgeInsets.fromLTRB(30, 5, 30, 0),
                   child: SizedBox(
                       height: 70,
                       width: 400,
@@ -281,7 +281,7 @@ class _AddTransactionState extends State<AddTransaction> {
                               shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(80),
                               ),
-                              textStyle: TextStyle(
+                              textStyle: const TextStyle(
                                   fontWeight: FontWeight.bold,
                                   fontSize: 20.0,
                                   color: Colors.white),

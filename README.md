@@ -23,7 +23,7 @@ It aims to help you track down current month expenses and find where you have sp
 ## Features
 
 - User Authentication
-![Sign In](https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512089.png|width=100)
+![Sign In]("https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512089.png" |width=100)
 
 - Live previews
 - Fullscreen mode

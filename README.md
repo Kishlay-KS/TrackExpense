@@ -23,8 +23,7 @@ It aims to help you track down current month expenses and find where you have sp
 ## Features
 
 - User Authentication
-[[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512089.png)|width=100px]]
-
+<img src="https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512089.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
 - Live previews
 - Fullscreen mode
 - Cross platform

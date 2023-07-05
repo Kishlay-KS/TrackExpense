@@ -7,7 +7,7 @@ It aims to help you track down current month expenses and find where you have sp
 
 ## Using the APK
 
-- The pre-built .apk file for the app can be downloaded [here]([https://github.com/Kishlay-KS/TrackExpense](https://drive.google.com/drive/u/0/my-drive?q=after:2023-07-05))
+- The pre-built .apk file for the app can be downloaded [here](https://drive.google.com/drive/u/0/my-drive?q=after:2023-07-05)
 - Open the file in your android device. If prompted, open using   Google Drive and then Package Installer.
 - Give necessary permissions to start the installation and start using the application.
 ## Requirements
@@ -45,7 +45,7 @@ It aims to help you track down current month expenses and find where you have sp
 </p>
 - Multiple analytic charts
 <br>
-<p align="left>
+<p align="left">
 <img src="https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512425.png" data-canonical- 
   src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 </p>

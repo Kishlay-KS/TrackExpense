@@ -56,11 +56,5 @@ It aims to help you track down current month expenses and find where you have sp
   src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 <img src="https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512515.png" data-canonical- 
   src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
-
-
-
-## Screenshots
-
-![App Screenshot](https://drive.google.com/drive/folders/1348RBRGfp8Mk7_GzX300DOCiCZAacW_o)
+</p>
 

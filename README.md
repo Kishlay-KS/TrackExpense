@@ -7,7 +7,7 @@ It aims to help you track down current month expenses and find where you have sp
 
 ## Using the APK
 
-- The pre-built .apk file for the app can be downloaded [here](https://drive.google.com/file/d/1rTA9OttriN3iqPZtAWfy6MgdNV9WhyTZ/view?usp=drive_link)
+- The pre-built .apk file for the app can be downloaded [here](https://drive.google.com/file/d/1rU9Q73P561LTqVwKu6xFm5kTKgRpCA2C/view?usp=sharing)
 - Open the file in your android device. If prompted, open using   Google Drive and then Package Installer.
 - Give necessary permissions to start the installation and start using the application.
 ## Requirements
